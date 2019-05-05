@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are no items 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "red",
+      "height": 150,
+      "width": 100,
+    }
+  }
+>
+  Hello World!
+</div>
+`;
