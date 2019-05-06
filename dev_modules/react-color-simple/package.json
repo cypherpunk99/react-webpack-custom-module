@@ -1,12 +1,13 @@
 {
   "name": "react-color-simple",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.4.0"
   },
   "scripts": {
+    "install": "build",
     "start": "webpack --watch",
     "build": "webpack",
     "test": "jest"
