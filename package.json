@@ -23,6 +23,6 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-color-square": "0.0.2"
+    "react-color-simple": "0.0.3"
   }
 }
